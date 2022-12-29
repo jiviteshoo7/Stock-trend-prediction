@@ -6,6 +6,14 @@ Predicting stock price trends is a challenging task that requires a combination 
 
 ![Demo](demo.gif)
 
+## Table of Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+- [Tests](#tests)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Installation
 
 To set up the project, follow these steps:
@@ -27,6 +35,23 @@ To run the project, execute the following command:
 This will train the machine learning model using the training data and evaluate its performance on the test data. The results will be displayed in the terminal.
 
 To make predictions on new data, you can use the `predict()` function provided in the `prediction
+
+## Tools
+
+This project uses the following tools:
+
+- **Python**: A popular programming language used for a wide range of applications, including machine learning and data science.
+- **Git**: A version control system used to track changes to the codebase.
+- **Jupyter Notebook**: An interactive coding environment that allows you to mix code, markdown, and visualizations.
+- **Pandas**: A library for data manipulation and analysis in Python.
+- **NumPy**: A library for numerical computing in Python.
+- **Scikit-learn**: A library for machine learning in Python.
+- **Keras**: A high-level neural networks API for fast prototyping and experimentation.
+- **Matplotlib**: A library for data visualization in Python.
+- **Seaborn**: A library for advanced data visualization in Python.
+- **Streamlit**: A library for building interactive web applications for machine learning and data science.
+
+![Python](https://img.shields.io/badge/python-3.9.1-blue) ![Git](https://img.shields.io/badge/git-2.27.0-blue) ![Jupyter Notebook](https://img.shields.io/badge/jupyter%20notebook-6.1.5-blue) ![Pandas](https://img.shields.io/badge/pandas-1.2.3-blue) ![NumPy](https://img.shields.io/badge/numpy-1.19.4-blue) ![Scikit-learn](https://img.shields.io/badge/scikit--learn-0.23.2-blue) ![Keras](https://img.shields.io/badge/keras-2.5.0-blue) ![Matplotlib](https://img.shields.io/badge/matplotlib-3.4.0-blue) ![Seaborn](https://img.shields.io/badge/seaborn-0.11.0-blue) ![Streamlit](https://img.shields.io/badge/streamlit-0.85.0-blue)
 
 ## Contributing
 
