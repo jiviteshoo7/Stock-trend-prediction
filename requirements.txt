@@ -1,0 +1,11 @@
+Flask
+gunicorn
+matplotlib
+seaborn
+pandas
+numpy
+scikit-learn
+pandas-datareader
+keras
+tensorflow
+streamlit==1.11.0
